@@ -44,6 +44,8 @@ body{
     position:absolute;
     top: 91px;
     left: 32px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .ear1{
     width: 10px;
@@ -52,6 +54,8 @@ body{
     position:absolute;
     top: 91px;
     left: 202px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 .eyes{
     position: absolute;
@@ -81,7 +85,7 @@ body{
     height:1px;
     position: absolute;
     top:110px;
-    left: 112px;
+    left: 114px;
     border-right: 15px solid transparent;
     border-bottom: 30px solid #c90a0a;
     border-left: 15px solid transparent;
